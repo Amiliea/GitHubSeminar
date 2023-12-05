@@ -1,0 +1,14 @@
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\bin\Debug\net7.0\Certification.exe
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\bin\Debug\net7.0\Certification.deps.json
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\bin\Debug\net7.0\Certification.runtimeconfig.json
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\bin\Debug\net7.0\Certification.dll
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\bin\Debug\net7.0\Certification.pdb
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.AssemblyInfoInputs.cache
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.AssemblyInfo.cs
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.dll
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\refint\Certification.dll
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.pdb
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\Certification.genruntimeconfig.cache
+C:\Users\Hi-tech\Desktop\Промежуточная аттестация\Certification\obj\Debug\net7.0\ref\Certification.dll
